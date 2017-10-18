@@ -31,5 +31,23 @@ data_python = json.loads(data)
 #    print value
     
 
-for k,v in data_python[0].items():
-    print k, ':', v
+#for k,v in data_python[1].items():
+#    print k, ':', v
+
+
+#iterates through range of json data :
+
+for i in range(len(data_python)):
+  
+    for key, value in data_python[i].items():
+
+        print key, value
+
+
+
+
+
+
+
+
+
