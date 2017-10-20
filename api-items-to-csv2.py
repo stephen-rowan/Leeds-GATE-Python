@@ -7,6 +7,11 @@ import csv
 
 #api_url = 'https://www.leedsgateheritage.com/api/tags'
 api_url = 'https://www.leedsgateheritage.com/api/items'
+#api_url = 'https://www.leedsgateheritage.com/api/collections'
+
+#api_url = 'http://192.168.1.75/api/items'
+#api_url = 'http://192.168.1.75/api/collections'
+
 
 url = api_url
 print 'Retrieving', url
@@ -15,52 +20,63 @@ open_url = urllib.urlopen(url)
 data = open_url.read()
 print 'Retrieved',len(data),'characters'
 
+
+
+#csv file :
+
+csv_out = open('api-items2.csv', mode='w') #opens csv file
+
+writer = csv.writer(csv_out) #create the csv writer object
+
+
+
 #Convert retrieved string into a json Python object :
 
 data_python = json.loads(data)
 
 
-#csv file :
+#output = set([])
 
+output = []
+output2 = []
 
-csv_out = open('api-items.csv', mode='w') #opens csv file
+#for line in data_python:
 
-writer = csv.writer(csv_out) #create the csv writer object
+#    for i in range(3):
 
-#field names
+#        print line["element_texts"][i]["element"]["name"], ":", line["element_texts"][i]["text"]
 
-fields = ['GATE Reference code','GATE Title','GATE Name of Creator','GATE Dates of Creation'] 
+for D in data_python:
 
-#writes fields
+    if 'element_texts' in D:
 
-writer.writerow(fields)
+        for d in D['element_texts']:
 
-#loop through json data :
+            k = d['element']['name']
 
+            v = d['text']
 
-for line in data_python:
-        
+            #print k, " : ", v
 
-    for i in range(len(data_python)):
-  
-        print line["element_texts"][i]["element"]["name"], ":", line["element_texts"][i]["text"]
+            #x = ("r", k)
 
+            #writer.writerow((k, v))
 
-        if (line["element_texts"][i]["element"]["name"]).endswith('code'):
-                    GATE_Reference_Code = (line["element_texts"][i]["text"])
+            #for x in output:
 
-        if (line["element_texts"][i]["element"]["name"]).endswith('Title'):
-                    GATE_Title = (line["element_texts"][i]["text"])
+            if v not in output2:
+                output2.append(v)
 
-        if (line["element_texts"][i]["element"]["name"]).endswith('Creator'):
-                   GATE_Name_of_Creator = (line["element_texts"][i]["text"])
+            if k not in output:
+                output.append(k)
 
-        if (line["element_texts"][i]["element"]["name"]).endswith('Creation'):
-                   GATE_Dates_of_Creation = (line["element_texts"][i]["text"])
-
-
-                   writer.writerow([GATE_Reference_Code, GATE_Title, GATE_Name_of_Creator, GATE_Dates_of_Creation])
+writer.writerow(output)
+writer.writerow(output2)            
 
 
 
 csv_out.close()
+
+print output
+
+print output2
