@@ -1,0 +1,2672 @@
+[
+	{
+		"id":24,
+		"url":"https:\/\/www.leedsgateheritage.com\/api\/items\/24",
+		"public":true,
+		"featured":true,
+		"added":"2017-08-30T15:01:43+00:00",
+		"modified":"2017-08-30T15:09:06+00:00",
+		"item_type":null,
+		"collection":{
+			"id":7,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/collections\/7",
+			"resource":"collections"
+		},
+		"owner":{
+			"id":1,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/users\/1",
+			"resource":"users"
+		},
+		"files":{
+			"count":2,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/files?item=24",
+			"resource":"files"
+		},
+		"tags":[
+
+		],
+		"element_texts":[
+			{
+				"text":"2016.1.5.0001A",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":52,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/52",
+					"name":"GATE Reference code",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Ramlin Rose: The Boatwoman's Story",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":53,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/53",
+					"name":"GATE Title",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Sheila Stewart",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":54,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/54",
+					"name":"GATE Name of Creator",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Published 1993",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":55,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/55",
+					"name":"GATE Dates of Creation",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Item",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":56,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/56",
+					"name":"GATE Level of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"1 book 222mm x 144mm Paper with board cover and dust jacket",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":59,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/59",
+					"name":"GATE Extent and medium of the unit of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Unrestricted access to view",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":61,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/61",
+					"name":"GATE Conditions governing access",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Copyright rests with individual author and publisher",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":62,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/62",
+					"name":"GATE Conditions governing reproduction",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"English",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":63,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/63",
+					"name":"GATE Language of material",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Oral history based on recorded interviews with women who grew up on horse-drawn boats. This was the last book published by writer and social historian Sheila Stewart, who grew up in children's homes, and who died in Sept 2014.",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":64,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/64",
+					"name":"GATE Description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"24.6.2016",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":65,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/65",
+					"name":"GATE Date(s) of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Oxford",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":66,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/66",
+					"name":"GATE Geographical area",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds Travellers Education",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":67,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/67",
+					"name":"GATE Immediate source of acquisition or transfer",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds GATE Archives",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":68,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/68",
+					"name":"GATE Current location",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Description prepared by Erin Whittaker, Yasmin Rankine and Tory Nickerson, Leeds GATE volunteers",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":71,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/71",
+					"name":"GATE Archivists note",
+					"resource":"elements"
+				}
+			}
+		],
+		"extended_resources":{
+			"exhibit_pages":{
+				"count":0,
+				"url":"https:\/\/www.leedsgateheritage.com\/api\/exhibit_pages?item=24",
+				"resource":"exhibit_pages"
+			}
+		}
+	},
+	{
+		"id":25,
+		"url":"https:\/\/www.leedsgateheritage.com\/api\/items\/25",
+		"public":true,
+		"featured":true,
+		"added":"2017-08-30T15:01:43+00:00",
+		"modified":"2017-08-30T15:08:49+00:00",
+		"item_type":null,
+		"collection":{
+			"id":7,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/collections\/7",
+			"resource":"collections"
+		},
+		"owner":{
+			"id":1,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/users\/1",
+			"resource":"users"
+		},
+		"files":{
+			"count":2,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/files?item=25",
+			"resource":"files"
+		},
+		"tags":[
+
+		],
+		"element_texts":[
+			{
+				"text":"2016.1.5.0001B",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":52,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/52",
+					"name":"GATE Reference code",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Ramlin Rose: The Boatwoman's Story",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":53,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/53",
+					"name":"GATE Title",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Sheila Stewart",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":54,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/54",
+					"name":"GATE Name of Creator",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Published 1993",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":55,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/55",
+					"name":"GATE Dates of Creation",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Item",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":56,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/56",
+					"name":"GATE Level of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"1 book 222 mm x 144 mm Paper with board cover and dust jacket",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":59,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/59",
+					"name":"GATE Extent and medium of the unit of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Unrestricted access to view",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":61,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/61",
+					"name":"GATE Conditions governing access",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Copyright rests with individual author and publisher",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":62,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/62",
+					"name":"GATE Conditions governing reproduction",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"English",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":63,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/63",
+					"name":"GATE Language of material",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Oral history based on recorded interviews with women who grew up on horse-drawn boats. This was the last book published by writer and social historian Sheila Stewart, who grew up in children's homes, and who died in Sept 2014.",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":64,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/64",
+					"name":"GATE Description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"24.6.2016",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":65,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/65",
+					"name":"GATE Date(s) of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Oxford",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":66,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/66",
+					"name":"GATE Geographical area",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds Travellers Education",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":67,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/67",
+					"name":"GATE Immediate source of acquisition or transfer",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds GATE Archives reading room",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":68,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/68",
+					"name":"GATE Current location",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Description prepared by Erin Whittaker, Yasmin Rankine and Tory Nickerson, Leeds GATE volunteers",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":71,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/71",
+					"name":"GATE Archivists note",
+					"resource":"elements"
+				}
+			}
+		],
+		"extended_resources":{
+			"exhibit_pages":{
+				"id":2,
+				"url":"https:\/\/www.leedsgateheritage.com\/api\/exhibit_pages\/2",
+				"resource":"exhibit_pages"
+			}
+		}
+	},
+	{
+		"id":26,
+		"url":"https:\/\/www.leedsgateheritage.com\/api\/items\/26",
+		"public":true,
+		"featured":true,
+		"added":"2017-08-30T15:01:43+00:00",
+		"modified":"2017-08-30T15:08:30+00:00",
+		"item_type":null,
+		"collection":{
+			"id":7,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/collections\/7",
+			"resource":"collections"
+		},
+		"owner":{
+			"id":1,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/users\/1",
+			"resource":"users"
+		},
+		"files":{
+			"count":2,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/files?item=26",
+			"resource":"files"
+		},
+		"tags":[
+
+		],
+		"element_texts":[
+			{
+				"text":"2016.1.5.0002A",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":52,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/52",
+					"name":"GATE Reference code",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Still Waters",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":53,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/53",
+					"name":"GATE Title",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Pratima Mitchell",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":54,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/54",
+					"name":"GATE Name of Creator",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Published 1994",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":55,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/55",
+					"name":"GATE Dates of Creation",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Item",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":56,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/56",
+					"name":"GATE Level of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"1 book 178 mm x 110 mm Paper with soft cover",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":59,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/59",
+					"name":"GATE Extent and medium of the unit of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Unrestricted access to view",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":61,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/61",
+					"name":"GATE Conditions governing access",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Copyright rests with individual author and publisher",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":62,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/62",
+					"name":"GATE Conditions governing reproduction",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"English",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":63,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/63",
+					"name":"GATE Language of material",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"A children's novel about a new-bargee boy who befriends a Kashmiri boy",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":64,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/64",
+					"name":"GATE Description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"24.6.2016",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":65,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/65",
+					"name":"GATE Date(s) of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"UK",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":66,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/66",
+					"name":"GATE Geographical area",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":" Kashmir",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":67,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/67",
+					"name":"GATE Immediate source of acquisition or transfer",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds Travellers Education",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":68,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/68",
+					"name":"GATE Current location",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds GATE Archives",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":69,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/69",
+					"name":"GATE Related units of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Description prepared by Erin Whittaker, Yasmin Rankine and Tory Nickerson, Leeds GATE volunteers",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":72,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/72",
+					"name":"GATE Families",
+					"resource":"elements"
+				}
+			}
+		],
+		"extended_resources":{
+			"exhibit_pages":{
+				"count":0,
+				"url":"https:\/\/www.leedsgateheritage.com\/api\/exhibit_pages?item=26",
+				"resource":"exhibit_pages"
+			}
+		}
+	},
+	{
+		"id":27,
+		"url":"https:\/\/www.leedsgateheritage.com\/api\/items\/27",
+		"public":true,
+		"featured":true,
+		"added":"2017-08-30T15:01:43+00:00",
+		"modified":"2017-08-30T15:07:59+00:00",
+		"item_type":null,
+		"collection":{
+			"id":7,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/collections\/7",
+			"resource":"collections"
+		},
+		"owner":{
+			"id":1,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/users\/1",
+			"resource":"users"
+		},
+		"files":{
+			"count":2,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/files?item=27",
+			"resource":"files"
+		},
+		"tags":[
+
+		],
+		"element_texts":[
+			{
+				"text":"2016.1.5.0002B",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":52,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/52",
+					"name":"GATE Reference code",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Still Waters",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":53,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/53",
+					"name":"GATE Title",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Pratima Mitchell",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":54,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/54",
+					"name":"GATE Name of Creator",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Published 1994",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":55,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/55",
+					"name":"GATE Dates of Creation",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Item",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":56,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/56",
+					"name":"GATE Level of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"1 book 178 mm x 110 mm Paper with soft cover",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":59,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/59",
+					"name":"GATE Extent and medium of the unit of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Unrestricted access to view",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":61,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/61",
+					"name":"GATE Conditions governing access",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Copyright rests with individual author and publisher",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":62,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/62",
+					"name":"GATE Conditions governing reproduction",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"English",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":63,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/63",
+					"name":"GATE Language of material",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"A children's novel about a new-bargee boy who befriends a Kashmiri boy",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":64,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/64",
+					"name":"GATE Description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"24.6.2016",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":65,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/65",
+					"name":"GATE Date(s) of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"UK",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":66,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/66",
+					"name":"GATE Geographical area",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":" Kashmir",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":67,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/67",
+					"name":"GATE Immediate source of acquisition or transfer",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds Travellers Education",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":68,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/68",
+					"name":"GATE Current location",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds GATE Archives reading room",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":69,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/69",
+					"name":"GATE Related units of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Description prepared by Erin Whittaker, Yasmin Rankine and Tory Nickerson, Leeds GATE volunteers",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":72,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/72",
+					"name":"GATE Families",
+					"resource":"elements"
+				}
+			}
+		],
+		"extended_resources":{
+			"exhibit_pages":{
+				"count":0,
+				"url":"https:\/\/www.leedsgateheritage.com\/api\/exhibit_pages?item=27",
+				"resource":"exhibit_pages"
+			}
+		}
+	},
+	{
+		"id":28,
+		"url":"https:\/\/www.leedsgateheritage.com\/api\/items\/28",
+		"public":true,
+		"featured":true,
+		"added":"2017-08-30T15:01:43+00:00",
+		"modified":"2017-08-30T15:07:33+00:00",
+		"item_type":null,
+		"collection":{
+			"id":7,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/collections\/7",
+			"resource":"collections"
+		},
+		"owner":{
+			"id":1,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/users\/1",
+			"resource":"users"
+		},
+		"files":{
+			"count":2,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/files?item=28",
+			"resource":"files"
+		},
+		"tags":[
+
+		],
+		"element_texts":[
+			{
+				"text":"2016.1.5.0003",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":52,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/52",
+					"name":"GATE Reference code",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Walks from the Leeds-Liverpool Canal",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":53,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/53",
+					"name":"GATE Title",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Mary Welsh",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":54,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/54",
+					"name":"GATE Name of Creator",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Published 1996",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":55,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/55",
+					"name":"GATE Dates of Creation",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Item",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":56,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/56",
+					"name":"GATE Level of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"1 book A5 ( 210 mm x 148 mm) Paper with soft cover",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":59,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/59",
+					"name":"GATE Extent and medium of the unit of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Unrestricted access to view",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":61,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/61",
+					"name":"GATE Conditions governing access",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Copyright rests with individual author and publisher",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":62,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/62",
+					"name":"GATE Conditions governing reproduction",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"English",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":63,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/63",
+					"name":"GATE Language of material",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Walking guide to routes around the Leeds-Liverpool canal",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":64,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/64",
+					"name":"GATE Description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"24.6.2016",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":65,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/65",
+					"name":"GATE Date(s) of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Lancashire and Yorkshire",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":66,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/66",
+					"name":"GATE Geographical area",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds Travellers Education",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":67,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/67",
+					"name":"GATE Immediate source of acquisition or transfer",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds GATE Archives",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":68,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/68",
+					"name":"GATE Current location",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Description prepared by Erin Whittaker, Yasmin Rankine and Tory Nickerson, Leeds GATE volunteers",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":71,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/71",
+					"name":"GATE Archivists note",
+					"resource":"elements"
+				}
+			}
+		],
+		"extended_resources":{
+			"exhibit_pages":{
+				"id":2,
+				"url":"https:\/\/www.leedsgateheritage.com\/api\/exhibit_pages\/2",
+				"resource":"exhibit_pages"
+			}
+		}
+	},
+	{
+		"id":29,
+		"url":"https:\/\/www.leedsgateheritage.com\/api\/items\/29",
+		"public":true,
+		"featured":true,
+		"added":"2017-08-30T15:01:43+00:00",
+		"modified":"2017-08-30T15:06:55+00:00",
+		"item_type":null,
+		"collection":{
+			"id":7,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/collections\/7",
+			"resource":"collections"
+		},
+		"owner":{
+			"id":1,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/users\/1",
+			"resource":"users"
+		},
+		"files":{
+			"count":2,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/files?item=29",
+			"resource":"files"
+		},
+		"tags":[
+
+		],
+		"element_texts":[
+			{
+				"text":"2016.1.5.0004",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":52,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/52",
+					"name":"GATE Reference code",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"The Leeds and Liverpool and Lancaster Canals",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":53,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/53",
+					"name":"GATE Title",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"British Waterways and North West Development ",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":54,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/54",
+					"name":"GATE Name of Creator",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Date unknown; probably post-2000, as it includes web addresses",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":55,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/55",
+					"name":"GATE Dates of Creation",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Item",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":56,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/56",
+					"name":"GATE Level of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"1 booklet A5 (210 mm x 148 mm) Paper",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":59,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/59",
+					"name":"GATE Extent and medium of the unit of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Unrestricted access to view",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":61,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/61",
+					"name":"GATE Conditions governing access",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Copyright rests with individual author and publisher",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":62,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/62",
+					"name":"GATE Conditions governing reproduction",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"English",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":63,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/63",
+					"name":"GATE Language of material",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Marketing\/publicity brochure produced for British Waterways",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":64,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/64",
+					"name":"GATE Description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"24.6.2016",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":65,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/65",
+					"name":"GATE Date(s) of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Lancashire and Yorkshire",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":66,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/66",
+					"name":"GATE Geographical area",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds Travellers Education",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":67,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/67",
+					"name":"GATE Immediate source of acquisition or transfer",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds GATE Archives",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":68,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/68",
+					"name":"GATE Current location",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Description prepared by Erin Whittaker, Yasmin Rankine and Tory Nickerson, Leeds GATE volunteers",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":71,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/71",
+					"name":"GATE Archivists note",
+					"resource":"elements"
+				}
+			}
+		],
+		"extended_resources":{
+			"exhibit_pages":{
+				"count":0,
+				"url":"https:\/\/www.leedsgateheritage.com\/api\/exhibit_pages?item=29",
+				"resource":"exhibit_pages"
+			}
+		}
+	},
+	{
+		"id":30,
+		"url":"https:\/\/www.leedsgateheritage.com\/api\/items\/30",
+		"public":true,
+		"featured":true,
+		"added":"2017-08-30T15:01:43+00:00",
+		"modified":"2017-08-30T15:06:21+00:00",
+		"item_type":null,
+		"collection":{
+			"id":7,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/collections\/7",
+			"resource":"collections"
+		},
+		"owner":{
+			"id":1,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/users\/1",
+			"resource":"users"
+		},
+		"files":{
+			"count":2,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/files?item=30",
+			"resource":"files"
+		},
+		"tags":[
+
+		],
+		"element_texts":[
+			{
+				"text":"2016.1.5.0005",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":52,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/52",
+					"name":"GATE Reference code",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Canal Arts and Crafts",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":53,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/53",
+					"name":"GATE Title",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Avril Lansdell",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":54,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/54",
+					"name":"GATE Name of Creator",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Published 1997",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":55,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/55",
+					"name":"GATE Dates of Creation",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Item",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":56,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/56",
+					"name":"GATE Level of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"1 book A5 (210 mm x 148mm) Paper with card cover",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":59,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/59",
+					"name":"GATE Extent and medium of the unit of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Unrestricted access to view",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":61,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/61",
+					"name":"GATE Conditions governing access",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Copyright rests with individual author and publisher",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":62,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/62",
+					"name":"GATE Conditions governing reproduction",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"English",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":63,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/63",
+					"name":"GATE Language of material",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Reference book about canal arts, part of the Shire Albums series. Focuses especially on boater women's crafts. Written by the curator of Weybridge Museum.",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":64,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/64",
+					"name":"GATE Description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"24.6.2016",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":65,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/65",
+					"name":"GATE Date(s) of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"England and Wales",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":66,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/66",
+					"name":"GATE Geographical area",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds Travellers Education",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":67,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/67",
+					"name":"GATE Immediate source of acquisition or transfer",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds GATE Archives",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":68,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/68",
+					"name":"GATE Current location",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Description prepared by Erin Whittaker, Yasmin Rankine and Tory Nickerson, Leeds GATE volunteers",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":71,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/71",
+					"name":"GATE Archivists note",
+					"resource":"elements"
+				}
+			}
+		],
+		"extended_resources":{
+			"exhibit_pages":{
+				"count":0,
+				"url":"https:\/\/www.leedsgateheritage.com\/api\/exhibit_pages?item=30",
+				"resource":"exhibit_pages"
+			}
+		}
+	},
+	{
+		"id":31,
+		"url":"https:\/\/www.leedsgateheritage.com\/api\/items\/31",
+		"public":true,
+		"featured":true,
+		"added":"2017-08-30T15:01:43+00:00",
+		"modified":"2017-08-30T15:05:20+00:00",
+		"item_type":null,
+		"collection":{
+			"id":7,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/collections\/7",
+			"resource":"collections"
+		},
+		"owner":{
+			"id":1,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/users\/1",
+			"resource":"users"
+		},
+		"files":{
+			"count":2,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/files?item=31",
+			"resource":"files"
+		},
+		"tags":[
+
+		],
+		"element_texts":[
+			{
+				"text":"2016.1.5.0006",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":52,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/52",
+					"name":"GATE Reference code",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Canal Barges & Narrow Boats",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":53,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/53",
+					"name":"GATE Title",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Peter L. Smith",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":54,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/54",
+					"name":"GATE Name of Creator",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Published 1994",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":55,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/55",
+					"name":"GATE Dates of Creation",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Item",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":56,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/56",
+					"name":"GATE Level of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"1 book A5 (210 mm x 148mm) Paper with card cover",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":59,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/59",
+					"name":"GATE Extent and medium of the unit of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Unrestricted access to view",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":61,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/61",
+					"name":"GATE Conditions governing access",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Copyright rests with individual author and publisher",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":62,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/62",
+					"name":"GATE Conditions governing reproduction",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"English",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":63,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/63",
+					"name":"GATE Language of material",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Reference book about the history of narrowboats. The author worked on the canals for many years. Part of the Shire Albums series.",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":64,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/64",
+					"name":"GATE Description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"24.6.2016",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":65,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/65",
+					"name":"GATE Date(s) of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"UK",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":66,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/66",
+					"name":"GATE Geographical area",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds Travellers Education",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":67,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/67",
+					"name":"GATE Immediate source of acquisition or transfer",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds GATE Archives",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":68,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/68",
+					"name":"GATE Current location",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Description prepared by Erin Whittaker, Yasmin Rankine and Tory Nickerson, Leeds GATE volunteers",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":71,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/71",
+					"name":"GATE Archivists note",
+					"resource":"elements"
+				}
+			}
+		],
+		"extended_resources":{
+			"exhibit_pages":{
+				"id":2,
+				"url":"https:\/\/www.leedsgateheritage.com\/api\/exhibit_pages\/2",
+				"resource":"exhibit_pages"
+			}
+		}
+	},
+	{
+		"id":32,
+		"url":"https:\/\/www.leedsgateheritage.com\/api\/items\/32",
+		"public":true,
+		"featured":true,
+		"added":"2017-08-30T15:01:43+00:00",
+		"modified":"2017-08-30T15:05:43+00:00",
+		"item_type":null,
+		"collection":{
+			"id":7,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/collections\/7",
+			"resource":"collections"
+		},
+		"owner":{
+			"id":1,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/users\/1",
+			"resource":"users"
+		},
+		"files":{
+			"count":2,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/files?item=32",
+			"resource":"files"
+		},
+		"tags":[
+
+		],
+		"element_texts":[
+			{
+				"text":"2016.1.5.0007",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":52,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/52",
+					"name":"GATE Reference code",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"The Narrowboat Girl",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":53,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/53",
+					"name":"GATE Title",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Annie Murray",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":54,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/54",
+					"name":"GATE Name of Creator",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Published 2001",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":55,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/55",
+					"name":"GATE Dates of Creation",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Item",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":56,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/56",
+					"name":"GATE Level of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"1 book 177 mm x 110 mm Paper with soft cover",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":59,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/59",
+					"name":"GATE Extent and medium of the unit of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Unrestricted access to view",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":61,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/61",
+					"name":"GATE Conditions governing access",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Copyright rests with individual author and publisher",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":62,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/62",
+					"name":"GATE Conditions governing reproduction",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"English",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":63,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/63",
+					"name":"GATE Language of material",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"A romantic novel about a young Birmingham woman who falls in love with a bargee in the 1930s",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":64,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/64",
+					"name":"GATE Description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"24.6.2016",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":65,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/65",
+					"name":"GATE Date(s) of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Birmingham",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":66,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/66",
+					"name":"GATE Geographical area",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds Travellers Education",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":67,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/67",
+					"name":"GATE Immediate source of acquisition or transfer",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds GATE Archives",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":68,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/68",
+					"name":"GATE Current location",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"2016.1.5.0109",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":69,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/69",
+					"name":"GATE Related units of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Description prepared by Erin Whittaker, Yasmin Rankine and Tory Nickerson, Leeds GATE volunteers",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":71,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/71",
+					"name":"GATE Archivists note",
+					"resource":"elements"
+				}
+			}
+		],
+		"extended_resources":{
+			"exhibit_pages":{
+				"id":2,
+				"url":"https:\/\/www.leedsgateheritage.com\/api\/exhibit_pages\/2",
+				"resource":"exhibit_pages"
+			}
+		}
+	},
+	{
+		"id":33,
+		"url":"https:\/\/www.leedsgateheritage.com\/api\/items\/33",
+		"public":true,
+		"featured":true,
+		"added":"2017-08-30T15:01:43+00:00",
+		"modified":"2017-09-19T11:34:26+00:00",
+		"item_type":null,
+		"collection":{
+			"id":7,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/collections\/7",
+			"resource":"collections"
+		},
+		"owner":{
+			"id":1,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/users\/1",
+			"resource":"users"
+		},
+		"files":{
+			"count":4,
+			"url":"https:\/\/www.leedsgateheritage.com\/api\/files?item=33",
+			"resource":"files"
+		},
+		"tags":[
+
+		],
+		"element_texts":[
+			{
+				"text":"2016.1.5.0008",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":52,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/52",
+					"name":"GATE Reference code",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Water Gypsies",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":53,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/53",
+					"name":"GATE Title",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Annie Murray",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":54,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/54",
+					"name":"GATE Name of Creator",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Published 2004",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":55,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/55",
+					"name":"GATE Dates of Creation",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Item",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":56,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/56",
+					"name":"GATE Level of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"1 book 177 mm x 110 mm Paper with soft cover",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":59,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/59",
+					"name":"GATE Extent and medium of the unit of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Unrestricted access to view",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":61,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/61",
+					"name":"GATE Conditions governing access",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Copyright rests with individual author and publisher",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":62,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/62",
+					"name":"GATE Conditions governing reproduction",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"English",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":63,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/63",
+					"name":"GATE Language of material",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"This novel is the sequel to 2016.1.5.0007 The Narrowboat Girl, set in 1942 on the canals around Birmingham.",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":64,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/64",
+					"name":"GATE Description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"24.6.2016",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":65,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/65",
+					"name":"GATE Date(s) of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Birmingham",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":66,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/66",
+					"name":"GATE Geographical area",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds Travellers Education",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":67,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/67",
+					"name":"GATE Immediate source of acquisition or transfer",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Leeds GATE Archives",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":68,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/68",
+					"name":"GATE Current location",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"2016.1.5.0108",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":69,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/69",
+					"name":"GATE Related units of description",
+					"resource":"elements"
+				}
+			},
+			{
+				"text":"Description prepared by Erin Whittaker, Yasmin Rankine and Tory Nickerson, Leeds GATE volunteers",
+				"element_set":{
+					"id":4,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/element_sets\/4",
+					"name":"Leeds-GATE element set",
+					"resource":"element_sets"
+				},
+				"element":{
+					"id":71,
+					"url":"https:\/\/www.leedsgateheritage.com\/api\/elements\/71",
+					"name":"GATE Archivists note",
+					"resource":"elements"
+				}
+			}
+		],
+		"extended_resources":{
+			"exhibit_pages":{
+				"count":0,
+				"url":"https:\/\/www.leedsgateheritage.com\/api\/exhibit_pages?item=33",
+				"resource":"exhibit_pages"
+			}
+		}
+	}
+]

@@ -1,10 +1,17 @@
 import urllib
 import json
+import requests
+
 
 #Retrieve api url :
 
-api_url = 'https://www.leedsgateheritage.com/api/tags'
-#api_url = 'https://www.leedsgateheritage.com/api/items'
+#api_url = 'https://www.leedsgateheritage.com/api/tags'
+api_url = 'https://www.leedsgateheritage.com/api/items'
+
+#data = requests.get('https://www.leedsgateheritage.com/api/items')
+#data = requests.get('https://www.leedsgateheritage.com/api/tags')
+
+#print data.text
 
 url = api_url
 print 'Retrieving', url
@@ -17,15 +24,20 @@ print 'Retrieved',len(data),'characters'
 
 data_python = json.loads(data)
 
-#data_python = json.load(data) 
+print type (data)
 
+#print data
 
 #for key in data_python[0].keys():
-#    print key
+
+ #   print key
 
 
-#for item in data_python[0].items():
-#    print item
+for item in data_python[0].items():
+    print item[0]
+
+#element_texts 
+
 
 #for value in data_python[0].values():
 #    print value
@@ -37,12 +49,12 @@ data_python = json.loads(data)
 
 #iterates through range of json data :
 
-for i in range(len(data_python)):
-  
-    for key, value in data_python[i].items():
-
-        print key, value
-
+#for i in range(len(data_python)):
+#  
+#    for key, value in data_python[i].items():
+#
+#        print key, value
+#
 
 
 

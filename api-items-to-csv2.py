@@ -21,13 +21,11 @@ data = open_url.read()
 print 'Retrieved',len(data),'characters'
 
 
-
 #csv file :
 
 csv_out = open('api-items2.csv', mode='w') #opens csv file
 
 writer = csv.writer(csv_out) #create the csv writer object
-
 
 
 #Convert retrieved string into a json Python object :
@@ -62,21 +60,65 @@ for D in data_python:
 
             #writer.writerow((k, v))
 
-            #for x in output:
-
-            if v not in output2:
-                output2.append(v)
+ #           if v not in output2:
+  #              output2.append(v)
 
             if k not in output:
                 output.append(k)
 
 writer.writerow(output)
-writer.writerow(output2)            
+#writer.writerow(output2)            
+
+
+
+
+for D in data_python:
+
+    if 'element_texts' in D:
+
+        for d in D['element_texts']:
+        
+            k = d['element']['name']
+
+            v = d['text']
+
+            #print k, " : ", v
+
+            #x = ("r", k)
+
+            #writer.writerow((k, v))
+
+            #for each in d:
+            #    if each == 'text':
+                    #print v
+            #        output2.append(v)
+
+
+            for line in d:
+                if line == 'text':
+                    print v
+                #if each == 'text':
+                 #   output2.append(v)
+
+
+                    
+        #print output2
+
+
+        #writer.writerow(output2)
+        #print k, v
+
+#                print v
+                #output2.append(v)
+                #writer.writerow(output)
+                #print output2
+
+
 
 
 
 csv_out.close()
 
-print output
+#print output
 
-print output2
+#print output2
