@@ -1,3 +1,101 @@
 url,extended_resources,id,name
-https://www.leedsgateheritage.com/api/tags/1,[],1,barge
-https://www.leedsgateheritage.com/api/tags/2,[],2,canal
+http://theafteraliceproject.org/api/tags/1,[],1,2015
+http://theafteraliceproject.org/api/tags/3,[],3,21st century
+http://theafteraliceproject.org/api/tags/7,[],7,Architecture
+http://theafteraliceproject.org/api/tags/8,[],8,Building
+http://theafteraliceproject.org/api/tags/9,[],9,Building site
+http://theafteraliceproject.org/api/tags/10,[],10,Building work
+http://theafteraliceproject.org/api/tags/12,[],12,Calderdale
+http://theafteraliceproject.org/api/tags/13,[],13,Construction
+http://theafteraliceproject.org/api/tags/14,[],14,Crane
+http://theafteraliceproject.org/api/tags/15,[],15,Drainpipe
+http://theafteraliceproject.org/api/tags/16,[],16,Event
+http://theafteraliceproject.org/api/tags/18,[],18,Hebden Bridge
+http://theafteraliceproject.org/api/tags/19,[],19,Hebden Water
+http://theafteraliceproject.org/api/tags/21,[],21,Industry
+http://theafteraliceproject.org/api/tags/22,[],22,Machinery
+http://theafteraliceproject.org/api/tags/25,[],25,Railing
+http://theafteraliceproject.org/api/tags/26,[],26,Scaffolding
+http://theafteraliceproject.org/api/tags/27,[],27,Site
+http://theafteraliceproject.org/api/tags/28,[],28,Site works
+http://theafteraliceproject.org/api/tags/29,[],29,Transport
+http://theafteraliceproject.org/api/tags/30,[],30,Upper Calder Valley
+http://theafteraliceproject.org/api/tags/31,[],31,Van
+http://theafteraliceproject.org/api/tags/33,[],33,Vehicle
+http://theafteraliceproject.org/api/tags/34,[],34,West Yorkshire
+http://theafteraliceproject.org/api/tags/36,[],36,Automobile
+http://theafteraliceproject.org/api/tags/37,[],37,Beverage
+http://theafteraliceproject.org/api/tags/39,[],39,Cafe
+http://theafteraliceproject.org/api/tags/40,[],40,Cafeteria
+http://theafteraliceproject.org/api/tags/41,[],41,Car
+http://theafteraliceproject.org/api/tags/43,[],43,Drink
+http://theafteraliceproject.org/api/tags/44,[],44,Estate agent
+http://theafteraliceproject.org/api/tags/45,[],45,Float
+http://theafteraliceproject.org/api/tags/46,[],46,Food and drink
+http://theafteraliceproject.org/api/tags/47,[],47,Lamp post
+http://theafteraliceproject.org/api/tags/48,[],48,Milk
+http://theafteraliceproject.org/api/tags/49,[],49,Sign
+http://theafteraliceproject.org/api/tags/50,[],50,Signage
+http://theafteraliceproject.org/api/tags/51,[],51,Street furniture
+http://theafteraliceproject.org/api/tags/52,[],52,Street lamp
+http://theafteraliceproject.org/api/tags/53,[],53,Text
+http://theafteraliceproject.org/api/tags/54,[],54,Thoroughfare
+http://theafteraliceproject.org/api/tags/55,[],55,Vintage
+http://theafteraliceproject.org/api/tags/56,[],56,Animal
+http://theafteraliceproject.org/api/tags/57,[],57,Dog
+http://theafteraliceproject.org/api/tags/59,[],59,Mammal
+http://theafteraliceproject.org/api/tags/60,[],60,Old Bridge
+http://theafteraliceproject.org/api/tags/61,[],61,Setts
+http://theafteraliceproject.org/api/tags/62,[],62,Stone setts
+http://theafteraliceproject.org/api/tags/63,[],63,Apparel
+http://theafteraliceproject.org/api/tags/64,[],64,Beanie hat
+http://theafteraliceproject.org/api/tags/65,[],65,Cap
+http://theafteraliceproject.org/api/tags/66,[],66,Clothing
+http://theafteraliceproject.org/api/tags/67,[],67,Eclipse
+http://theafteraliceproject.org/api/tags/68,[],68,Fashion
+http://theafteraliceproject.org/api/tags/69,[],69,Flat cap
+http://theafteraliceproject.org/api/tags/70,[],70,Garments
+http://theafteraliceproject.org/api/tags/71,[],71,Glasses
+http://theafteraliceproject.org/api/tags/72,[],72,Group
+http://theafteraliceproject.org/api/tags/73,[],73,Hat
+http://theafteraliceproject.org/api/tags/75,[],75,Male
+http://theafteraliceproject.org/api/tags/76,[],76,Portrait
+http://theafteraliceproject.org/api/tags/77,[],77,Shop sign
+http://theafteraliceproject.org/api/tags/78,[],78,St George's Square
+http://theafteraliceproject.org/api/tags/79,[],79,Sunglasses
+http://theafteraliceproject.org/api/tags/80,[],80,Bag
+http://theafteraliceproject.org/api/tags/81,[],81,Bicycle
+http://theafteraliceproject.org/api/tags/82,[],82,Bike
+http://theafteraliceproject.org/api/tags/84,[],84,Cycle
+http://theafteraliceproject.org/api/tags/85,[],85,Female
+http://theafteraliceproject.org/api/tags/86,[],86,Female group
+http://theafteraliceproject.org/api/tags/87,[],87,Mobile phone
+http://theafteraliceproject.org/api/tags/88,[],88,Scarf
+http://theafteraliceproject.org/api/tags/89,[],89,Shoulder bag
+http://theafteraliceproject.org/api/tags/90,[],90,Shoulder of Mutton
+http://theafteraliceproject.org/api/tags/91,[],91,Technology
+http://theafteraliceproject.org/api/tags/92,[],92,Chair
+http://theafteraliceproject.org/api/tags/93,[],93,Europe
+http://theafteraliceproject.org/api/tags/94,[],94,Litter bin
+http://theafteraliceproject.org/api/tags/95,[],95,Seat
+http://theafteraliceproject.org/api/tags/97,[],97,Bench
+http://theafteraliceproject.org/api/tags/98,[],98,Bollard
+http://theafteraliceproject.org/api/tags/99,[],99,Furnishings
+http://theafteraliceproject.org/api/tags/100,[],100,Furniture
+http://theafteraliceproject.org/api/tags/101,[],101,Litter
+http://theafteraliceproject.org/api/tags/102,[],102,Sculpture
+http://theafteraliceproject.org/api/tags/103,[],103,Art
+http://theafteraliceproject.org/api/tags/104,[],104,Artefact
+http://theafteraliceproject.org/api/tags/105,[],105,Arts and crafts
+http://theafteraliceproject.org/api/tags/106,[],106,Child
+http://theafteraliceproject.org/api/tags/107,[],107,Headgear
+http://theafteraliceproject.org/api/tags/108,[],108,Lamp
+http://theafteraliceproject.org/api/tags/109,[],109,Lighting
+http://theafteraliceproject.org/api/tags/110,[],110,Shop
+http://theafteraliceproject.org/api/tags/111,[],111,Toddler
+http://theafteraliceproject.org/api/tags/112,[],112,Apron
+http://theafteraliceproject.org/api/tags/113,[],113,Boots
+http://theafteraliceproject.org/api/tags/114,[],114,Footwear
+http://theafteraliceproject.org/api/tags/115,[],115,Workwear
+http://theafteraliceproject.org/api/tags/116,[],116,Builder
+http://theafteraliceproject.org/api/tags/117,[],117,Occupation

@@ -9,7 +9,6 @@ json_file = requests.get('https://www.leedsgateheritage.com/api/items')
 data = json.loads(json_file.content)  
 
 
-
 for item in data[0].items():
 
       if item[0] == 'element_texts':
